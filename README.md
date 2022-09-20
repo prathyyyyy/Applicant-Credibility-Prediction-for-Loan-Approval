@@ -1,4 +1,5 @@
 # Applicant-Credibility-Prediction-for-Loan-Approval
+![](https://media3.giphy.com/media/8xoZGp16eCZoN7KJ1d/giphy.gif?cid=ecf05e47whcm1qf5t00ty49qij8z2982jize2ereola6nfw7&rid=giphy.gif&ct=g)
 
 ## Introduction :
 - This is an collaborative project with IBM professional readiness
