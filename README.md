@@ -11,9 +11,7 @@ program for innovation, employability and entrepreneurship.
 ## Project workflow :
     Applicant Credibility Prediction for Loan Approval
           * Project Progress
-              * [Project planning] - [https://github.com/IBM-EPBL/IBM-Project-17145-1659629015/blob/main/Project%20Planning/project-planning-for-applicant-loan-credibility.pdf]
-              * [Empathy Map] - [https://github.com/IBM-EPBL/IBM-Project-17145-1659629015/blob/main/Project%20Planning/empathy-map.pdf]
-              * [Brainstrom Map] - [https://github.com/IBM-EPBL/IBM-Project-17145-1659629015/blob/main/Project%20Planning/brainstrom-map.pdf]
+              * Project Plannning - [https://github.com/prathyyyyy/Applicant-Credibility-Prediction-for-Loan-Approval/tree/main/Project%20Planning]
 
 ## Project tasks : 
 1. Get quality dataset - Data plays a major role in data science project
