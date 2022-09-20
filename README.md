@@ -10,9 +10,9 @@ program for innovation, employability and entrepreneurship.
 - This project main motive is to provide more insights and perform perfect data science task.
 
 ## Project workflow :
-    Applicant Credibility Prediction for Loan Approval
-          * Project Progress
-              * Project Plannning - [https://github.com/prathyyyyy/Applicant-Credibility-Prediction-for-Loan-Approval/tree/main/Project%20Planning]
+### Applicant Credibility Prediction for Loan Approval:
+#### Project Progress
+* Project Plannning - [https://github.com/prathyyyyy/Applicant-Credibility-Prediction-for-Loan-Approval/tree/main/Project%20Planning]
 
 ## Project tasks : 
 1. Get quality dataset - Data plays a major role in data science project
